@@ -9,3 +9,6 @@ Tasks included:
 2. Feature Engineering
 3. Using pipelines for better code practices
 4. Understanding performance of various models
+
+How to use it:
+You can change the dataset and modify the pipelines according to the dataset. This file serves as a boilerplate for pipelines+modeling
