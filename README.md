@@ -1,4 +1,4 @@
-# titanic-dataset-Pipelines-EDA-ModelPrediction
+Pipelines-EDA-ModelPrediction
 
 Using sklearn's Pipeline to streamline model building and predictions for titanic dataset
 
